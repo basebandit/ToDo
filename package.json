@@ -13,6 +13,6 @@
     "http-errors": "~1.6.2",
     "morgan": "~1.9.1",
     "nodemon": "^1.17.5",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   }
 }
